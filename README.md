@@ -76,7 +76,7 @@ PDF Download Button - Generate a PDF version of the resume
 
 Contact Form - Add a simple form for recruiters to contact you
 
-Language Toggle - If you want a multilingual resume
+Language Togglfe - If you want a multilingual resume
 
 
 <!DOCTYPE html>
